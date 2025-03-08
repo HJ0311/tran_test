@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'SuperPixel';
+  src: url('../assets/fonts/Super\ Pixel\ Personal\ Use.ttf');
+}
+
+@font-face {
+  font-family: 'QuinqueFive';
+  src: url('../assets/fonts/QuinqueFive.ttf');
+}
