@@ -4,10 +4,10 @@
 
 @font-face {
   font-family: 'SuperPixel';
-  src: url('../assets/fonts/Super\ Pixel\ Personal\ Use.ttf');
+  src: url('../public/assets/fonts/Super\ Pixel\ Personal\ Use.ttf');
 }
 
 @font-face {
   font-family: 'QuinqueFive';
-  src: url('../assets/fonts/QuinqueFive.ttf');
+  src: url('../public/assets/fonts/QuinqueFive.ttf');
 }
